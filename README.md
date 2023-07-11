@@ -32,9 +32,9 @@
 
 |이름|Github|
 |---|---|
-|김민환|@|
+|김민환|[@rlaalsghks8](https://github.com/rlaalsghks8)|
 |김혜연|[@hyeyeonismm](https://github.com/hyeyeonismm)|
-|박고운|@|
+|박고운|[@Goraniiii](https://github.com/Goraniiii)|
 |정유진|@|
 
 <br/>
